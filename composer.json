@@ -12,6 +12,10 @@
         {
             "name": "Tony Lea",
             "email": "tony.lea@thecontrolgroup.com"
+        },
+         {
+            "name": "Saud Bawazeer",
+            "email": "saudb@giantpace.com"
         }
     ],
     "require": {
