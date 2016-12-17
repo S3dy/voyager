@@ -14,6 +14,9 @@ class VoyagerController extends Controller
 {
     public function index()
     {
+      if (view()->exists("admin.index")) 
+        return view('admin.index');
+
         return view('voyager::index');
     }
 
